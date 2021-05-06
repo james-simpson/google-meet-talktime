@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "highcharts": "^8.0.4"
+    "highcharts": "^9.0.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
